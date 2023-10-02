@@ -10,7 +10,7 @@ I'm a Software Engineer, and Cloud Engineering student at Altschool. I currently
 - 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing achebepeter94@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1196YdJBEtuUQ1cQ2pt4mne931KFlASUe/view?usp=drivesdk) and contact me by emailing oachebe2022@gmail.com.
 
 ---
 
