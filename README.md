@@ -8,7 +8,6 @@ Adept with Linux, bash scripting, and Python. Skilled in Jenkins CI/CD, Kubernet
 - 😊 Pronouns: He/him
 - I am a Certified Kubernetes Administrator
 - 💡 Fun fact: I'm an alumni AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1uNh-1AmEPjfP3FI-0h3BL9dzIvYYXJ4z/view?usp=sharing) and contact me by emailing oachebe2022@gmail.com.
